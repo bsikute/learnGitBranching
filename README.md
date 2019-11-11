@@ -1,4 +1,4 @@
-# LearnGitBranching
+# LearnGitBranching - Feature 1
 
 [![Build Status](https://travis-ci.org/pcottle/learnGitBranching.svg?branch=master)](https://travis-ci.org/pcottle/learnGitBranching)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?)](https://github.com/pcottle/learnGitBranching/pulls)
